@@ -1,0 +1,21 @@
+.picker_title {
+
+}
+
+.picker_title::before {
+  display: inline-block;
+  margin-left: 15PX;
+  color: #FA5B5B;
+  font-size: 0.59733rem;
+  font-family: SimSun, sans-serif;
+  line-height: 1;
+  content: "*";
+}
+
+.picker_item{
+  width: 100%;
+}
+
+.picker_item_required {
+  width: 94%;
+}
